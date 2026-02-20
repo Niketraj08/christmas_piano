@@ -1,12 +1,4 @@
-/* JavaScript Document
 
-TemplateMo 604 Christmas Piano
-
-https://templatemo.com/tm-604-christmas-piano
-
-*/
-
-// ===== AUDIO ENGINE =====
 class PianoAudio {
    constructor() {
       this.audioCtx = null;
