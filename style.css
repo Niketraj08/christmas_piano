@@ -15,7 +15,6 @@
 	--text: #e8e8e8;
 	--text-muted: #888;
 }
-
 * {
 	margin: 0;
 	padding: 0;
@@ -65,7 +64,7 @@ body {
 	}
 }
 
-/* Header - Two Row Design */
+
 header {
 	position: fixed;
 	top: 0;
