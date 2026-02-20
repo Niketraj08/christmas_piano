@@ -1,5 +1,4 @@
-// ===== PIANO AUDIO ENGINE ===== 
-// Uses Web Audio API to synthesize piano sounds for the Christmas songs. 
+
 class PianoAudio {
    constructor() {
       this.audioCtx = null;
