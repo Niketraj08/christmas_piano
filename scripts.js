@@ -70,7 +70,7 @@ class PianoAudio {
       osc2.stop(now + noteDuration + 0.1);
    }
 }
-
+// ===== INITIALIZATION =====
 // ===== SONGS DATA =====
 const songs = [{
       title: "Last Christmas",
